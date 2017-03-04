@@ -1,0 +1,28 @@
+/* ------ general
+-----------------------------------------------*/
+
+body {
+font-family: Helvetica, Arial , sans-serif;
+background-image: url("https://drscdn.500px.org/photo/3927291/m%3D2048/1a426f791a157518006a7983ecc356bf");
+font-size:12px;
+line-height:16px;
+}
+
+#container {
+margin:20px auto;
+width: 960px;
+
+}
+
+a img {
+border:none;
+}
+
+h1, h2, h3, h4, h5, h6{ margin-bottom:10px; font-weight:normal; }
+	h1{ font-size:26px; line-height:32px; font-family: 'DroidSansRegular', Helvetica, Arial , sans-serif; }
+	p, ul{margin-bottom:10px;}
+
+
+/*https://drscdn.500px.org/photo/90131321/m%3D2048/b5a67d6264e7a29f7b8a4763a6b1db15
+https://drscdn.500px.org/photo/3927291/m%3D2048/1a426f791a157518006a7983ecc356bf
+*/
