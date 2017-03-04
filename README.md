@@ -27,4 +27,7 @@ Below is a code snippet for the 30 second timer.
 
 Here is a preview the game.
 ![alt text](./images/europemap.png "European Map")
+
+
+Right now, the game only works on firefox. I will like to Improve the game by fixing the cross browser issue. 
      
